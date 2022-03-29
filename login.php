@@ -27,7 +27,7 @@
                     <input type="submit" value="Login" name="loginsubmit" style="float:right;" class="btn btn-dark">
                 </form>
                 </div>
-               
+               <!-- mes -->
                 <?php include('include/message.php'); ?> 
             </div>
         </div>
